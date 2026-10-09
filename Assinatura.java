@@ -1,4 +1,3 @@
-package papeisieee;
 public class Assinatura {
     private int pontuacao;
     private int pontuacaoMax;

@@ -1,4 +1,3 @@
-package papeisieee;
 public class Aluno {
     private String nome;
     private boolean ehMembro;
